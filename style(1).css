@@ -1,0 +1,45 @@
+/*
+Theme Name: Dvalen
+Theme URI: http: //ecore.com.co/dvalen/
+Author: Ecore
+Description: This is a child theme for Hanata
+Version: 1.0
+Author URI: http://ecore.com.co
+Template: hanata
+Text Domain: hanata-child
+*/
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+
+.wab-icon-styled.wab-cont.wab-pull-right, .wab-icon-plain.wab-cont.wab-pull-right {
+    right: 134px !important;
+	    z-index: 100000000000 !important;
+}
+
+.back-top {
+    	left: 30px!important;}
+
+
+.mkdf-top-bar {
+    background-color: #001085;
+    color: var(--white);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 7px 3%;
+    text-align: center;
+    width: 100%;
+}
+
+
+
+a.m {
+    color: #fffdfd !important;
+}
+
+a.m:hover {
+    color: #fffdfd !important;
+}
+
+.block-top-link{
+	display: none !important;
+}

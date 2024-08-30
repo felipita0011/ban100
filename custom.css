@@ -1,0 +1,11 @@
+#bwp-footer {
+    background: #f0f0f0 !important;
+}
+
+.header-v1{
+    background: hsla(0,0%,56%,.9) !important;
+}
+
+.header-v1 .header-content {
+    padding: 20px 40px !important;
+}
